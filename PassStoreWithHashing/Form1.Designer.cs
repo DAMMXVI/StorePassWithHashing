@@ -1,4 +1,4 @@
-﻿namespace PassStoreWithHashing
+﻿namespace StorePassWithHashing
 {
     partial class Form1
     {
