@@ -52,6 +52,7 @@ namespace StorePassWithHashing
             }
             return Sb.ToString();
         }
+
         public bool check_password(string hashed_password, string user_password)
         {
             splitted = hashed_password.Split(split);
