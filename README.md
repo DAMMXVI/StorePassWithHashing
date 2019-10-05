@@ -1,4 +1,4 @@
-# Hashing-in-Python
+# Hashing-in-C#
 
 A hash is a function that converts one value to another. Hashing data is a common practice in computer science and is used for several different purposes. Examples include cryptography, compression, checksum generation, and data indexing.
 
